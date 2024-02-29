@@ -1,6 +1,6 @@
 
 # [The Art of Prompt Engineering](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1?authuser=0)
-## **Author** : @sinanazeri
+## **Author** : @Sina Nazeri , @Joseph Santarcangelo
 ![Logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX0TGVEN/images/art%20of%20prompt%20eng.jpeg)
 
 
